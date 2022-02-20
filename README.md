@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somnath-Bar
 - 👀 I’m interested in spatial data processing and analysis
 - 🌱 I’m currently learning spatial data handling through Python
-- 💞️ I’m looking to collaborate on vegetation fire 
+- 💞️ I’m looking to collaborate on wild/forest fires and causality.  
 - 📫 How to reach me ... bar.somnath@yahoo.in
 
 <!---
