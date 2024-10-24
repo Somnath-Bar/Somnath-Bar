@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Somnath-Bar
-- 👀 I’m interested in extracting the stories by playing with Earth Observation and Geospatial data. 
+- 👀 I’m passionate about uncovering insights through the exploration of Earth Observation and Geospatial data.
 - 📫 How to reach me ... bar.somnath@yahoo.in
 
 <!---
