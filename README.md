@@ -2,29 +2,14 @@
 
 **Postdoctoral Researcher**  
 Department of Civil and Environmental Engineering, University of California, Irvine, CA, US  
-Email: [somnatb@uci.edu](mailto:somnatb@uci.edu) | [bar.somnath@yahoo.in](mailto:bar.somnath@yahoo.in)
+Mob: [+1 949 561 2089](tel:+19495612089) · Email: [somnatb@uci.edu](mailto:somnatb@uci.edu) | [bar.somnath@yahoo.in](mailto:bar.somnath@yahoo.in)
 
-## EXPERIENCE
+## Connect with Me:
 
-### 1. April 2024 – Present  
-**Postdoctoral Researcher**, Department of Civil and Environmental Engineering, University of California, Irvine, US  
-**Projects:**  
-• Development of a fundamental research framework in wildfire through the lens of Remote Sensing, geospatial, and computational dynamics.
-
-### 2. April 2024 – Present  
-**Visitor**, School of Geography and Environmental Science, University of Southampton, UK  
-
-### 3. June 2023 – April 2024  
-**Research Fellow**, School of Geography and Environmental Science, University of Southampton, UK  
-**Projects:**  
-• Development of country-scale vegetation products from Sentinel 2 in high spatial (~100m) and temporal (15 days) resolution.  
-• Developing Ground-Based Observations for Validation (GBOV) vegetation products (fAPAR, LAI, fCover) for Copernicus Global Land Products.  
-• Earth observation data in monitoring orangutan habitat in Sumatra, Indonesia.
-
-### 4. December 2022 – April 2023  
-**Associate (Data Scientist and Climate Analyst)**, Climate Resilient Hub, WTW, Mumbai  
-**Projects:**  
-• Developing a wildfire risk prediction model using both physical and statistical methods.
+- [ResearchGate](https://www.researchgate.net/profile/Somnath-Bar-3)
+- [Personal Website](https://sites.google.com/view/somnath-bar/home)
+- [Google Scholar](https://scholar.google.com/citations?user=kUz-9RwAAAAJ&hl=en)
+- [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-1679-6130)
 
 ---
 
