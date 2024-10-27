@@ -2,7 +2,7 @@
 
 **Postdoctoral Researcher**  
 Department of Civil and Environmental Engineering, University of California, Irvine, CA, US  
-Mob: [+1 949 561 2089](tel:+19495612089) · Email: [somnatb@uci.edu](mailto:somnatb@uci.edu) | [bar.somnath@yahoo.in](mailto:bar.somnath@yahoo.in)
+Email: [somnatb@uci.edu](mailto:somnatb@uci.edu) | [bar.somnath@yahoo.in](mailto:bar.somnath@yahoo.in)
 
 ## EXPERIENCE
 
