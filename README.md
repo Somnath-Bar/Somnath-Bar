@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Somnath-Bar
 - 👀 I’m passionate about uncovering insights through the exploration of Earth Observation and Geospatial data.
-- 📫 How to reach me ... bar.somnath@yahoo.in
+- 📫 How to reach me: somnatb@uci.edu | bar.somnath@yahoo.in
 
 <!---
 Somnath-Bar/Somnath-Bar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
